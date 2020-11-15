@@ -2,6 +2,8 @@ import pygame
 import random
 import os
 
+print("ciao")
+
 pygame.init()
 directory = os.path.dirname(os.path.realpath(__file__))
 

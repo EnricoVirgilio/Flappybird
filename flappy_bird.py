@@ -92,8 +92,6 @@ def hai_perso():
                         elif event.type == pygame.QUIT:
                                 pygame.quit() 
 
-
-
 inizializza()       
 
 while True:
@@ -131,7 +129,3 @@ while True:
                         
         disegna_oggetti()   
         aggiorna()
-       
-
-
-

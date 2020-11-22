@@ -11,8 +11,10 @@ Cosa fare per permettere il corretto funzionamento del gioco
 - se si preferisce è possibile utilizzare il comando da terminale "git clone https://github.com/EnricoVirgilio/Flappybird"
 - dopo aver fatto ciò eseguire flappy_bird.py
 
+
 Istruzioni del gioco
 - Freccia su, per salire
 - Spazio, per ricominciare il gioco in caso di sconfitta
+
 
 L'obiettivo principale del gioco è passare attraverso dei tubi con il personaggio senza toccarli, altrimenti si perde
